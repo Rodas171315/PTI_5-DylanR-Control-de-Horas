@@ -30,7 +30,7 @@ namespace Proyecto_DB
 
         private void btnGithub_Click(object sender, EventArgs e)
         {
-            Process.Start("https://github.com/Rodas171315/PTI_5-DylanR-Control-de-Horas");
+            Process.Start("https://github.com/Rodas171315/PTI_5-DylanR-Control_de_Horas");
         }
 
         private void btnEmail_Click(object sender, EventArgs e)
